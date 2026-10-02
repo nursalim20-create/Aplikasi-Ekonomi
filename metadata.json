@@ -1,0 +1,6 @@
+{
+  "name": "SMA Negeri 1 Belitang II",
+  "description": "Media Pembelajaran Ekonomi Kelas X Interaktif SMA Negeri 1 Belitang II bersama Guru Nur Salim, S. Pd dengan materi terstruktur, video pembelajaran, kuis berizin guru, game edukasi, pemantauan real-time, dan ekspor nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
